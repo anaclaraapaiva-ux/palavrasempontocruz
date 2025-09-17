@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.output {
+  font-family: monospace;
+  font-size: 24px;
+  white-space: pre-wrap;
+  margin-top: 20px;
+}
+
+.cross {
+  display: inline-block;
+  margin: 2px;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 1px 1px 0 #999;
+}
